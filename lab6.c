@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int csum, msum;
+int csum;
 void *runner(void *param);
 
 int main(int argc, char *argv[])
